@@ -6,6 +6,9 @@ homepage: https://github.com/perlatus/flutter_zoomable_image
 
 version: 1.2.0
 
+environment:
+  sdk: '>=2.0.0-dev.0.0 <3.0.0'
+
 dependencies:
   flutter:
     sdk: flutter
